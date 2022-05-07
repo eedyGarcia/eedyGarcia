@@ -2,7 +2,7 @@
 
 Soy de México
 
-Recientemente estoy concursando en el mercado laboral después de haber pasado un buen tiempo con mi propio emprendimiento [Editando Ideas](https://editandoideas.com/)
+Estoy ampliando mi portafolio con los proyectos en los que he participado en [Editando Ideas](https://editandoideas.com/)
 
 Me gusta la programamción, la música y la filosofía
 
