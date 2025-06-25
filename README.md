@@ -17,9 +17,6 @@ Desarrollador de software con más de **10 años de experiencia**, especializado
 
 ### 🏢 Ford Motor Company | *Software Developer / DevOps / Data Analyst*  
 📍 Estado de México | 📆 Abr 2023 – Jun 2025
-
-  ![image](https://github.com/user-attachments/assets/5075aa77-84ca-4eef-9cd3-d80099f826ad)
-
   
 - Desarrollo de +50 componentes reutilizables en **AEM**.
 - Automatización de flujos con **n8n** y **Gemini** (↓60% tiempo operativo).
@@ -33,8 +30,6 @@ Desarrollador de software con más de **10 años de experiencia**, especializado
 ### 🧩 VMLY&R | *Sr. Frontend Developer / Tech Lead*  
 📍 CDMX | 📆 Abr 2022 – Abr 2023
 
-  ![image](https://github.com/user-attachments/assets/06577bd6-49c1-4fb7-a77b-b84214c8218c)
-
 - Desarrollo de Web App interactiva para **Walgreens** con **AMP**.
 - Componentes AEM + campañas con **Adobe Campaign Classic**.
 
@@ -42,10 +37,6 @@ Desarrollador de software con más de **10 años de experiencia**, especializado
 
 ### 🛠️ Editando Ideas | *Tech Lead / Project Manager*  
 📍 CDMX | 📆 2014 – 2022
-
-![image](https://github.com/user-attachments/assets/62ba178b-86a9-4f24-9aa5-7eb1e11433ef)
-
-
 
 - Liderazgo en +20 proyectos web/app.
 - Implementación CI/CD, entornos QA/prod, gestión de equipos.
@@ -96,5 +87,3 @@ Si quieres colaborar, construir o automatizar juntos, no dudes en contactarme.
 ¡Siempre abierto a nuevos retos! 🚀
 
 ---
-
-> ✨ *Este README fue generado automáticamente como presentación de mi CV profesional.*
